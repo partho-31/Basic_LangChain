@@ -1,0 +1,11 @@
+# LangChain
+langchain
+langchain-core
+
+# OpenAI
+langchain-openai
+openai
+
+# Google Gemini
+langchain-google-genai
+google-generativeai
