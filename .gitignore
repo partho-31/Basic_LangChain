@@ -1,3 +1,4 @@
 .env/
 langChain-env/
-.agents/.env
+.agents/
+.env/
